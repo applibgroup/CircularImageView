@@ -1,0 +1,28 @@
+{
+  "app": {
+    "bundleName": "de.hdodenhof.circleimageview",
+    "vendor": "hdodenhof",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {
+  },
+  "module": {
+    "package": "de.hdodenhof.circleimageview",
+    "deviceType": [
+      "phone",
+      "tablet",
+      "tv",
+      "wearable",
+      "car"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "circleimageview",
+      "moduleType": "har",
+      "installationFree": false
+    }
+  }
+}
